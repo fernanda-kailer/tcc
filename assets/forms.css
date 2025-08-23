@@ -1,0 +1,17 @@
+
+form{
+    margin-left: 38%;
+    margin-top: 5%;
+    align-items: center;
+    width: 400px; height: 400px;
+    padding: 50px;
+    border-radius: 5%;
+    -webkit-box-shadow: 2px 7px 23px 0px rgba(143,85,230,1);
+    -moz-box-shadow: 2px 7px 23px 0px rgba(143,85,230,1);
+    box-shadow: 2px 7px 23px 0px rgba(143,85,230,1);
+    
+};
+
+
+
+
