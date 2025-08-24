@@ -16,3 +16,19 @@ O usuário deve informar o conteudo que deseja estudar e o tempo disponível. A 
 - Métodos de estudo recomendados: sugestões personalizadas de técnicas eficazes, como resumos, mapas mentais ou revisões.
 
 **Importante:** Este projeto **não inclui** uma chave de API. Para utilizar, você deve criar um arquivo `.env` com sua própria chave.
+
+ ## Pagina Inicial
+<div align="center"> <img width="512" height="284" alt="unnamed" src="https://github.com/user-attachments/assets/2ac8b3eb-c793-4d8b-a692-09aac04a23f8" /> </div>
+
+ ## Cadastro
+<div align="center"> <img width="512" height="356" alt="cadastro" src="https://github.com/user-attachments/assets/d9995684-9f10-4e97-8e07-89092dfb3fe4" /> </div>
+
+## login
+<div align="center"> <img width="512" height="321" alt="login" src="https://github.com/user-attachments/assets/bc5cedff-0ee7-45fc-b78d-2ad366d0b34e" /> </div>
+
+## Plano de estudos gerado
+<div align="center"> <img width="512" height="246" alt="principal" src="https://github.com/user-attachments/assets/4c62b1fa-4a44-45ac-949b-85f54163e572" /> </div>
+
+
+
+
